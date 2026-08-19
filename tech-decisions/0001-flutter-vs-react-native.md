@@ -1,7 +1,7 @@
 # ADR-0001: 客户端框架选型——Flutter（Studio）+ Taro（Slice）
 
-> 状态：✅ 已接受（2026-05-30，基于实验室实验验证）
-> 来源：实验记录 `experiments/flutter-vs-react-native/`（原实验代码已归档删除，可按实验记录恢复重建）
+> 状态：✅ 已接受（2026-05-30，基于量潮软件工程创新实验室实验验证）
+> 来源：实验"Flutter vs React Native 技术栈选型"（实验室 `examples/default/examples/flutter-vs-react-native`，已删除）
 
 ## 背景
 
@@ -58,6 +58,4 @@ spec/openapi.yaml          ← 数据模型单一事实来源
 
 ## 关联
 
-- 实验记录（含恢复步骤）：`experiments/flutter-vs-react-native/README.md`（PoC #1–#4、故事点 58）
-- 研究文档：`experiments/flutter-vs-react-native/research/`（IDL 选型、状态管理、小程序对比、AI 生成对比）
-- 数据模型单一事实来源：`experiments/flutter-vs-react-native/spec/openapi.yaml`
+- 决策矩阵与 PoC 结论均记录于本 ADR（实验详情随实验代码一并删除）
